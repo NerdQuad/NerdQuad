@@ -1,5 +1,5 @@
 ## Hey, I'm Quadri 👋👩‍💻👨‍💻
-I'm a software engineer who is passionate about building scabable products, creating technology to elevate people, and building community. Some technologies I enjoy working with include Django, JavaScript, HTML & CSS and SQL. 
+I'm a software engineer who is passionate about building scabable products, creating technology to elevate people, and building community. Some technologies I enjoy working with include Django(Python), JavaScript, HTML & CSS and SQL. 
 
 <!--
 **NerdQuad/NerdQuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
