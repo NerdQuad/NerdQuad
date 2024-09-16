@@ -1,9 +1,5 @@
 ## Hey, I'm Quadri 👋👩‍💻👨‍💻
-I'm a software engineer who is passionate about building scabable products, creating technology to elevate people, and building community. Some technologies I enjoy working with include Django(Python), JavaScript, HTML & CSS and SQL. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdquad)](https://github.com/anuraghazra/github-readme-stats)
-
-
+I'm a software engineer who is passionate about building scabable products, creating technology to elevate people, and building community.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdquad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
